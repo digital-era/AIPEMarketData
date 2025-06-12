@@ -80934,7 +80934,155 @@
         {
             "\u4ee3\u7801": 512100,
             "\u65e5\u671f": "2023-12-07",
-            "Category": ",
+            "Category": "\u4e2d\u8bc11000",
+            "PotScore-New_Mean": -0.07181835237020595,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 5.838443762301806
+        },
+        {
+            "\u4ee3\u7801": 512010,
+            "\u65e5\u671f": "2023-12-07",
+            "Category": "300\u533b\u836f",
+            "PotScore-New_Mean": -0.1886304826083886,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 5.710684133787931
+        },
+        {
+            "\u4ee3\u7801": 515260,
+            "\u65e5\u671f": "2023-12-07",
+            "Category": "\u7535\u5b5050",
+            "PotScore-New_Mean": -0.2218509918752762,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 3.643974642084815
+        },
+        {
+            "\u4ee3\u7801": 510300,
+            "\u65e5\u671f": "2023-12-07",
+            "Category": "\u6caa\u6df1300",
+            "PotScore-New_Mean": -0.1657532326655086,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": -21.12676383216979
+        },
+        {
+            "\u4ee3\u7801": 562860,
+            "\u65e5\u671f": "2023-12-07",
+            "Category": "\u75ab\u82d7\u751f\u7269",
+            "PotScore-New_Mean": -0.02213622187874611,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": -61.82017322033524
+        },
+        {
+            "\u4ee3\u7801": 515250,
+            "\u65e5\u671f": "2023-12-07",
+            "Category": "CS\u667a\u6c7d\u8f66",
+            "PotScore-New_Mean": -0.01050303518944015,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": -92.65387217394326
+        },
+        {
+            "\u4ee3\u7801": 512100,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "\u4e2d\u8bc11000",
+            "PotScore-New_Mean": -0.07577178648729758,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 250.0311758531658
+        },
+        {
+            "\u4ee3\u7801": 588000,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "\u79d1\u521b50",
+            "PotScore-New_Mean": -0.03469888272994069,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 154.6016655100657
+        },
+        {
+            "\u4ee3\u7801": 562860,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "\u75ab\u82d7\u751f\u7269",
+            "PotScore-New_Mean": -0.02412972960653864,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 76.63073716524735
+        },
+        {
+            "\u4ee3\u7801": 500000,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "All",
+            "PotScore-New_Mean": -0.01039320246734685,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 63.46331751982001
+        },
+        {
+            "\u4ee3\u7801": 563300,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "\u4e2d\u8bc12000",
+            "PotScore-New_Mean": 0.05675215917094941,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 51.84750117244041
+        },
+        {
+            "\u4ee3\u7801": 512170,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "\u4e2d\u8bc1\u533b\u7597",
+            "PotScore-New_Mean": -0.1383693767916553,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 40.3295046531604
+        },
+        {
+            "\u4ee3\u7801": 510050,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "\u4e0a\u8bc150",
+            "PotScore-New_Mean": -0.1957049605542931,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 22.28753738069776
+        },
+        {
+            "\u4ee3\u7801": 512500,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "\u4e2d\u8bc1500",
+            "PotScore-New_Mean": -0.1388797883241002,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 21.13129575097427
+        },
+        {
+            "\u4ee3\u7801": 515260,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "\u7535\u5b5050",
+            "PotScore-New_Mean": -0.2176838790322731,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 12.05428203023641
+        },
+        {
+            "\u4ee3\u7801": 512010,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "300\u533b\u836f",
+            "PotScore-New_Mean": -0.1635632195900655,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 10.52795186928245
+        },
+        {
+            "\u4ee3\u7801": 510300,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "\u6caa\u6df1300",
+            "PotScore-New_Mean": -0.1686369194424343,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": -40.20449192157845
+        },
+        {
+            "\u4ee3\u7801": 515250,
+            "\u65e5\u671f": "2023-12-06",
+            "Category": "CS\u667a\u6c7d\u8f66",
+            "PotScore-New_Mean": 0.009731558187111352,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": -68.79707494018876
+        },
+        {
+            "\u4ee3\u7801": 563300,
+            "\u65e5\u671f": "2023-12-05",
+            "Category": "\u4e2d\u8bc12000",
+            "PotScore-New_Mean": 0.05679885841856553,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 881.2900336351149
+        },
+        {
+            "\u4ee3\u7801": 500000,
+            "\u65e5\u671f": "2023-12-05",
+            "Category": "All",
+            "PotScore-New_Mean": -0.01031639359060695,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 355.3308725604881
+        },
+        {
+            "\u4ee3\u7801": 562860,
+            "\u65e5\u671f": "2023-12-05",
+            "Category": "\u75ab\u82d7\u751f\u7269",
+            "PotScore-New_Mean": -0.03334882957930132,
+            "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 62.23008631943763
+        },
+        {
+            "\u4ee3\u7801": 512170,
+            "\u65e5\u671f": "2023-12-05",
+            "Category": "\u4e2d\u8bc1\u533b\u7597",
+            "PotScore-New_Mean": -0.104321390252641,
             "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 54.54365894896318
         },
         {
@@ -81078,10 +81226,4 @@
             "\u589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": -711.0694106922055
         }
     ]
-}589e\u957f\u767e\u5206\u6bd4_PotScore_Mean": 62.23008631943763
-        },
-        {
-            "\u4ee3\u7801": 512170,
-            "\u65e5\u671f": "2023-12-05",
-            "Category": "\u4e2d\u8bc1\u533b\u7597",
-            "PotScore-New_Mean": -0.104321390252641
+}
