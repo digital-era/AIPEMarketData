@@ -5,10 +5,10 @@
         "Close_UDI": 96.87,
         "High": 96.43,
         "Low": 96.48,
-        "Percent": NaN,
-        "DA": NaN,
+        "Percent": null,
+        "DA": null,
         "YC": 0.0,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/03/20D",
@@ -19,7 +19,7 @@
         "Percent": 0.25,
         "DA": -0.08,
         "YC": 0.25,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/06/20D",
@@ -30,7 +30,7 @@
         "Percent": -0.22,
         "DA": -0.37,
         "YC": 0.03,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/07/20D",
@@ -41,7 +41,7 @@
         "Percent": 0.2,
         "DA": -0.03,
         "YC": 0.23,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/08/20D",
@@ -52,7 +52,7 @@
         "Percent": 0.25,
         "DA": -0.01,
         "YC": 0.47,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/09/20D",
@@ -63,7 +63,7 @@
         "Percent": 0.24,
         "DA": -0.02,
         "YC": 0.71,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/10/20D",
@@ -74,7 +74,7 @@
         "Percent": 0.02,
         "DA": -0.13,
         "YC": 0.73,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/13/20D",
@@ -85,7 +85,7 @@
         "Percent": -0.05,
         "DA": -0.04,
         "YC": 0.68,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/14/20D",
@@ -96,7 +96,7 @@
         "Percent": 0.03,
         "DA": -0.03,
         "YC": 0.71,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/15/20D",
@@ -107,7 +107,7 @@
         "Percent": -0.12,
         "DA": -0.23,
         "YC": 0.59,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/16/20D",
@@ -118,7 +118,7 @@
         "Percent": -0.08,
         "DA": -0.09,
         "YC": 0.51,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/17/20D",
@@ -129,7 +129,7 @@
         "Percent": 0.31,
         "DA": -0.04,
         "YC": 0.82,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/21/20D",
@@ -140,7 +140,7 @@
         "Percent": 0.0,
         "DA": -0.25,
         "YC": 0.82,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/22/20D",
@@ -151,7 +151,7 @@
         "Percent": 0.03,
         "DA": -0.18,
         "YC": 0.85,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/23/20D",
@@ -162,7 +162,7 @@
         "Percent": 0.11,
         "DA": -0.05,
         "YC": 0.96,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/24/20D",
@@ -173,7 +173,7 @@
         "Percent": 0.15,
         "DA": -0.05,
         "YC": 1.11,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/27/20D",
@@ -184,7 +184,7 @@
         "Percent": 0.05,
         "DA": -0.1,
         "YC": 1.17,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/28/20D",
@@ -195,7 +195,7 @@
         "Percent": 0.16,
         "DA": -0.05,
         "YC": 1.33,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/29/20D",
@@ -206,7 +206,7 @@
         "Percent": 0.03,
         "DA": -0.01,
         "YC": 1.36,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/30/20D",
@@ -217,7 +217,7 @@
         "Percent": -0.12,
         "DA": -0.24,
         "YC": 1.24,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-01/31/20D",
@@ -228,7 +228,7 @@
         "Percent": -0.1,
         "DA": -0.52,
         "YC": 1.14,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/03/20D",
@@ -239,7 +239,7 @@
         "Percent": -0.08,
         "DA": 0.0,
         "YC": 1.05,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/04/20D",
@@ -250,7 +250,7 @@
         "Percent": 0.12,
         "DA": -0.03,
         "YC": 1.18,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/05/20D",
@@ -261,7 +261,7 @@
         "Percent": 0.32,
         "DA": -0.04,
         "YC": 1.5,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/06/20D",
@@ -272,7 +272,7 @@
         "Percent": 0.25,
         "DA": -0.08,
         "YC": 1.75,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/07/20D",
@@ -283,7 +283,7 @@
         "Percent": 0.14,
         "DA": -0.04,
         "YC": 1.9,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/10/20D",
@@ -294,7 +294,7 @@
         "Percent": 0.17,
         "DA": -0.1,
         "YC": 2.07,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/11/20D",
@@ -305,7 +305,7 @@
         "Percent": 0.07,
         "DA": -0.15,
         "YC": 2.15,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/12/20D",
@@ -316,7 +316,7 @@
         "Percent": 0.1,
         "DA": -0.06,
         "YC": 2.25,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/13/20D",
@@ -327,7 +327,7 @@
         "Percent": 0.06,
         "DA": -0.14,
         "YC": 2.31,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/14/20D",
@@ -338,7 +338,7 @@
         "Percent": 0.05,
         "DA": -0.12,
         "YC": 2.36,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/18/20D",
@@ -349,7 +349,7 @@
         "Percent": 0.31,
         "DA": -0.05,
         "YC": 2.68,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/19/20D",
@@ -360,7 +360,7 @@
         "Percent": 0.25,
         "DA": -0.05,
         "YC": 2.94,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/20/20D",
@@ -371,7 +371,7 @@
         "Percent": 0.19,
         "DA": -0.01,
         "YC": 3.14,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/21/20D",
@@ -382,7 +382,7 @@
         "Percent": -0.04,
         "DA": -0.63,
         "YC": 3.1,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/24/20D",
@@ -393,7 +393,7 @@
         "Percent": -0.23,
         "DA": -0.23,
         "YC": 2.86,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/25/20D",
@@ -404,7 +404,7 @@
         "Percent": -0.25,
         "DA": -0.45,
         "YC": 2.6,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/26/20D",
@@ -415,7 +415,7 @@
         "Percent": -0.12,
         "DA": -0.17,
         "YC": 2.48,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/27/20D",
@@ -426,7 +426,7 @@
         "Percent": -0.22,
         "DA": -0.66,
         "YC": 2.25,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-02/28/20D",
@@ -437,7 +437,7 @@
         "Percent": -0.39,
         "DA": -0.46,
         "YC": 1.85,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/02/20D",
@@ -448,7 +448,7 @@
         "Percent": -0.58,
         "DA": -0.91,
         "YC": 1.26,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/03/20D",
@@ -459,7 +459,7 @@
         "Percent": -0.4,
         "DA": -0.59,
         "YC": 0.86,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/04/20D",
@@ -470,7 +470,7 @@
         "Percent": -0.11,
         "DA": -0.05,
         "YC": 0.74,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/05/20D",
@@ -481,7 +481,7 @@
         "Percent": -0.15,
         "DA": -0.88,
         "YC": 0.59,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/06/20D",
@@ -492,7 +492,7 @@
         "Percent": -0.76,
         "DA": -0.92,
         "YC": -0.18,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/09/20D",
@@ -503,7 +503,7 @@
         "Percent": -0.94,
         "DA": -1.18,
         "YC": -1.11,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/10/20D",
@@ -514,7 +514,7 @@
         "Percent": 0.82,
         "DA": -0.11,
         "YC": -0.3,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/11/20D",
@@ -525,7 +525,7 @@
         "Percent": 0.04,
         "DA": -0.43,
         "YC": -0.26,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/12/20D",
@@ -536,7 +536,7 @@
         "Percent": 1.75,
         "DA": -0.59,
         "YC": 1.49,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/13/20D",
@@ -547,7 +547,7 @@
         "Percent": 0.51,
         "DA": -0.11,
         "YC": 2.0,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/16/20D",
@@ -558,7 +558,7 @@
         "Percent": -0.34,
         "DA": -1.03,
         "YC": 1.65,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/17/20D",
@@ -569,7 +569,7 @@
         "Percent": 1.38,
         "DA": -0.16,
         "YC": 3.06,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/18/20D",
@@ -580,7 +580,7 @@
         "Percent": 1.91,
         "DA": -0.23,
         "YC": 5.03,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/19/20D",
@@ -591,7 +591,7 @@
         "Percent": 1.08,
         "DA": -0.02,
         "YC": 6.16,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/20/20D",
@@ -602,7 +602,7 @@
         "Percent": 0.15,
         "DA": -1.8,
         "YC": 6.32,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/23/20D",
@@ -613,7 +613,7 @@
         "Percent": -0.01,
         "DA": -0.29,
         "YC": 6.31,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/24/20D",
@@ -624,7 +624,7 @@
         "Percent": -0.75,
         "DA": -1.05,
         "YC": 5.51,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/25/20D",
@@ -635,7 +635,7 @@
         "Percent": -0.29,
         "DA": -0.74,
         "YC": 5.2,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/26/20D",
@@ -646,7 +646,7 @@
         "Percent": -0.87,
         "DA": -1.69,
         "YC": 4.28,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/27/20D",
@@ -657,7 +657,7 @@
         "Percent": -1.2,
         "DA": -1.01,
         "YC": 3.03,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/30/20D",
@@ -668,7 +668,7 @@
         "Percent": -0.49,
         "DA": -0.02,
         "YC": 2.53,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-03/31/20D",
@@ -679,7 +679,7 @@
         "Percent": 0.63,
         "DA": -0.36,
         "YC": 3.18,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/01/20D",
@@ -690,7 +690,7 @@
         "Percent": -0.11,
         "DA": -0.1,
         "YC": 3.07,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/02/20D",
@@ -701,7 +701,7 @@
         "Percent": 0.57,
         "DA": -0.17,
         "YC": 3.65,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/03/20D",
@@ -712,7 +712,7 @@
         "Percent": 0.44,
         "DA": -0.06,
         "YC": 4.11,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/06/20D",
@@ -723,7 +723,7 @@
         "Percent": 0.08,
         "DA": -0.18,
         "YC": 4.19,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/07/20D",
@@ -734,7 +734,7 @@
         "Percent": -0.14,
         "DA": -0.97,
         "YC": 4.05,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/08/20D",
@@ -745,7 +745,7 @@
         "Percent": -0.36,
         "DA": -0.01,
         "YC": 3.68,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/09/20D",
@@ -756,7 +756,7 @@
         "Percent": -0.13,
         "DA": -0.77,
         "YC": 3.54,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/13/20D",
@@ -767,7 +767,7 @@
         "Percent": -0.67,
         "DA": -0.35,
         "YC": 2.85,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/14/20D",
@@ -778,7 +778,7 @@
         "Percent": -0.2,
         "DA": -0.55,
         "YC": 2.64,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/15/20D",
@@ -789,7 +789,7 @@
         "Percent": 0.55,
         "DA": 0.0,
         "YC": 3.21,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/16/20D",
@@ -800,7 +800,7 @@
         "Percent": 0.32,
         "DA": -0.02,
         "YC": 3.54,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/17/20D",
@@ -811,7 +811,7 @@
         "Percent": -0.01,
         "DA": -0.24,
         "YC": 3.53,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/20/20D",
@@ -822,7 +822,7 @@
         "Percent": -0.22,
         "DA": -0.06,
         "YC": 3.3,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/21/20D",
@@ -833,7 +833,7 @@
         "Percent": 0.41,
         "DA": -0.01,
         "YC": 3.73,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/22/20D",
@@ -844,7 +844,7 @@
         "Percent": 0.02,
         "DA": -0.31,
         "YC": 3.75,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/23/20D",
@@ -855,7 +855,7 @@
         "Percent": 0.19,
         "DA": -0.41,
         "YC": 3.94,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/24/20D",
@@ -866,7 +866,7 @@
         "Percent": 0.18,
         "DA": -0.28,
         "YC": 4.13,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/27/20D",
@@ -877,7 +877,7 @@
         "Percent": -0.55,
         "DA": -0.4,
         "YC": 3.56,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/28/20D",
@@ -888,7 +888,7 @@
         "Percent": -0.11,
         "DA": -0.61,
         "YC": 3.45,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/29/20D",
@@ -899,7 +899,7 @@
         "Percent": -0.32,
         "DA": -0.41,
         "YC": 3.12,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-04/30/20D",
@@ -910,7 +910,7 @@
         "Percent": -0.16,
         "DA": -0.67,
         "YC": 2.95,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/01/20D",
@@ -921,7 +921,7 @@
         "Percent": -0.52,
         "DA": -0.35,
         "YC": 2.42,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/04/20D",
@@ -932,7 +932,7 @@
         "Percent": 0.39,
         "DA": 0.0,
         "YC": 2.82,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/05/20D",
@@ -943,7 +943,7 @@
         "Percent": 0.37,
         "DA": -0.21,
         "YC": 3.2,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/06/20D",
@@ -954,7 +954,7 @@
         "Percent": 0.23,
         "DA": -0.05,
         "YC": 3.44,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/07/20D",
@@ -965,7 +965,7 @@
         "Percent": 0.2,
         "DA": -0.4,
         "YC": 3.64,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/08/20D",
@@ -976,7 +976,7 @@
         "Percent": -0.46,
         "DA": -0.38,
         "YC": 3.17,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/11/20D",
@@ -987,7 +987,7 @@
         "Percent": 0.34,
         "DA": 0.0,
         "YC": 3.52,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/12/20D",
@@ -998,7 +998,7 @@
         "Percent": 0.16,
         "DA": -0.57,
         "YC": 3.69,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/13/20D",
@@ -1009,7 +1009,7 @@
         "Percent": -0.16,
         "DA": -0.43,
         "YC": 3.52,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/14/20D",
@@ -1020,7 +1020,7 @@
         "Percent": 0.28,
         "DA": -0.04,
         "YC": 3.81,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/15/20D",
@@ -1031,7 +1031,7 @@
         "Percent": -0.07,
         "DA": -0.18,
         "YC": 3.74,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/18/20D",
@@ -1042,7 +1042,7 @@
         "Percent": -0.02,
         "DA": -0.78,
         "YC": 3.72,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/19/20D",
@@ -1053,7 +1053,7 @@
         "Percent": -0.74,
         "DA": -0.39,
         "YC": 2.95,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/20/20D",
@@ -1064,7 +1064,7 @@
         "Percent": -0.17,
         "DA": -0.55,
         "YC": 2.78,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/21/20D",
@@ -1075,7 +1075,7 @@
         "Percent": -0.05,
         "DA": -0.16,
         "YC": 2.73,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/22/20D",
@@ -1086,7 +1086,7 @@
         "Percent": 0.36,
         "DA": -0.03,
         "YC": 3.1,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/26/20D",
@@ -1097,7 +1097,7 @@
         "Percent": -0.1,
         "DA": -0.87,
         "YC": 2.99,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/27/20D",
@@ -1108,7 +1108,7 @@
         "Percent": -0.43,
         "DA": -0.3,
         "YC": 2.55,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/28/20D",
@@ -1119,7 +1119,7 @@
         "Percent": -0.25,
         "DA": -0.56,
         "YC": 2.29,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-05/29/20D",
@@ -1130,7 +1130,7 @@
         "Percent": -0.54,
         "DA": -0.58,
         "YC": 1.73,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/01/20D",
@@ -1141,7 +1141,7 @@
         "Percent": -0.23,
         "DA": -0.52,
         "YC": 1.5,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/02/20D",
@@ -1152,7 +1152,7 @@
         "Percent": -0.42,
         "DA": -0.42,
         "YC": 1.07,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/03/20D",
@@ -1163,7 +1163,7 @@
         "Percent": -0.29,
         "DA": -0.39,
         "YC": 0.78,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/04/20D",
@@ -1174,7 +1174,7 @@
         "Percent": 0.0,
         "DA": -0.77,
         "YC": 0.78,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/05/20D",
@@ -1185,7 +1185,7 @@
         "Percent": -0.61,
         "DA": -0.31,
         "YC": 0.17,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/08/20D",
@@ -1196,7 +1196,7 @@
         "Percent": 0.04,
         "DA": -0.25,
         "YC": 0.21,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/09/20D",
@@ -1207,7 +1207,7 @@
         "Percent": -0.01,
         "DA": -0.41,
         "YC": 0.2,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/10/20D",
@@ -1218,7 +1218,7 @@
         "Percent": -0.62,
         "DA": -0.73,
         "YC": -0.42,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/11/20D",
@@ -1229,7 +1229,7 @@
         "Percent": 0.38,
         "DA": -0.15,
         "YC": -0.04,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/12/20D",
@@ -1240,7 +1240,7 @@
         "Percent": 0.64,
         "DA": -0.33,
         "YC": 0.6,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/15/20D",
@@ -1251,7 +1251,7 @@
         "Percent": -0.06,
         "DA": -0.5,
         "YC": 0.54,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/16/20D",
@@ -1262,7 +1262,7 @@
         "Percent": -0.14,
         "DA": -0.13,
         "YC": 0.39,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/17/20D",
@@ -1273,7 +1273,7 @@
         "Percent": 0.09,
         "DA": -0.22,
         "YC": 0.49,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/18/20D",
@@ -1284,7 +1284,7 @@
         "Percent": 0.25,
         "DA": -0.13,
         "YC": 0.73,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/19/20D",
@@ -1295,7 +1295,7 @@
         "Percent": 0.14,
         "DA": -0.27,
         "YC": 0.88,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/22/20D",
@@ -1306,7 +1306,7 @@
         "Percent": 0.02,
         "DA": -0.67,
         "YC": 0.9,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/23/20D",
@@ -1317,7 +1317,7 @@
         "Percent": -0.5,
         "DA": -0.55,
         "YC": 0.39,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/24/20D",
@@ -1328,7 +1328,7 @@
         "Percent": -0.01,
         "DA": -0.11,
         "YC": 0.38,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/25/20D",
@@ -1339,7 +1339,7 @@
         "Percent": 0.37,
         "DA": -0.08,
         "YC": 0.75,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/26/20D",
@@ -1350,7 +1350,7 @@
         "Percent": 0.08,
         "DA": -0.09,
         "YC": 0.84,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/29/20D",
@@ -1361,7 +1361,7 @@
         "Percent": -0.03,
         "DA": -0.4,
         "YC": 0.81,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-06/30/20D",
@@ -1372,7 +1372,7 @@
         "Percent": 0.15,
         "DA": -0.17,
         "YC": 0.96,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/01/20D",
@@ -1383,7 +1383,7 @@
         "Percent": -0.18,
         "DA": -0.37,
         "YC": 0.77,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/02/20D",
@@ -1394,7 +1394,7 @@
         "Percent": -0.29,
         "DA": -0.35,
         "YC": 0.49,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/06/20D",
@@ -1405,7 +1405,7 @@
         "Percent": -0.14,
         "DA": -0.6,
         "YC": 0.34,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/07/20D",
@@ -1416,7 +1416,7 @@
         "Percent": -0.05,
         "DA": -0.15,
         "YC": 0.29,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/08/20D",
@@ -1427,7 +1427,7 @@
         "Percent": -0.1,
         "DA": -0.61,
         "YC": 0.19,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/09/20D",
@@ -1438,7 +1438,7 @@
         "Percent": -0.25,
         "DA": -0.22,
         "YC": -0.06,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/10/20D",
@@ -1449,7 +1449,7 @@
         "Percent": 0.17,
         "DA": -0.32,
         "YC": 0.1,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/13/20D",
@@ -1460,7 +1460,7 @@
         "Percent": -0.3,
         "DA": -0.4,
         "YC": -0.2,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/14/20D",
@@ -1471,7 +1471,7 @@
         "Percent": 0.02,
         "DA": -0.37,
         "YC": -0.18,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/15/20D",
@@ -1482,7 +1482,7 @@
         "Percent": -0.47,
         "DA": -0.4,
         "YC": -0.64,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/16/20D",
@@ -1493,7 +1493,7 @@
         "Percent": 0.16,
         "DA": -0.11,
         "YC": -0.49,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/17/20D",
@@ -1504,7 +1504,7 @@
         "Percent": -0.07,
         "DA": -0.39,
         "YC": -0.56,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/20/20D",
@@ -1515,7 +1515,7 @@
         "Percent": -0.16,
         "DA": -0.29,
         "YC": -0.71,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/21/20D",
@@ -1526,7 +1526,7 @@
         "Percent": -0.27,
         "DA": -0.73,
         "YC": -0.98,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/22/20D",
@@ -1537,7 +1537,7 @@
         "Percent": -0.53,
         "DA": -0.31,
         "YC": -1.51,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/23/20D",
@@ -1548,7 +1548,7 @@
         "Percent": -0.24,
         "DA": -0.41,
         "YC": -1.74,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/24/20D",
@@ -1559,7 +1559,7 @@
         "Percent": -0.37,
         "DA": -0.46,
         "YC": -2.11,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/27/20D",
@@ -1570,7 +1570,7 @@
         "Percent": -0.43,
         "DA": -0.92,
         "YC": -2.53,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/28/20D",
@@ -1581,7 +1581,7 @@
         "Percent": -0.43,
         "DA": -0.1,
         "YC": -2.95,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/29/20D",
@@ -1592,7 +1592,7 @@
         "Percent": -0.22,
         "DA": -0.61,
         "YC": -3.17,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/30/20D",
@@ -1603,7 +1603,7 @@
         "Percent": -0.13,
         "DA": -0.42,
         "YC": -3.29,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-07/31/20D",
@@ -1614,7 +1614,7 @@
         "Percent": -0.15,
         "DA": -0.29,
         "YC": -3.44,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/03/20D",
@@ -1625,7 +1625,7 @@
         "Percent": 0.48,
         "DA": -0.15,
         "YC": -2.97,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/04/20D",
@@ -1636,7 +1636,7 @@
         "Percent": -0.17,
         "DA": -0.35,
         "YC": -3.14,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/05/20D",
@@ -1647,7 +1647,7 @@
         "Percent": -0.62,
         "DA": -0.71,
         "YC": -3.74,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/06/20D",
@@ -1658,7 +1658,7 @@
         "Percent": -0.17,
         "DA": -0.27,
         "YC": -3.9,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/07/20D",
@@ -1669,7 +1669,7 @@
         "Percent": 0.57,
         "DA": -0.05,
         "YC": -3.36,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/10/20D",
@@ -1680,7 +1680,7 @@
         "Percent": 0.09,
         "DA": -0.1,
         "YC": -3.27,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/11/20D",
@@ -1691,7 +1691,7 @@
         "Percent": 0.04,
         "DA": -0.46,
         "YC": -3.23,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/12/20D",
@@ -1702,7 +1702,7 @@
         "Percent": 0.18,
         "DA": -0.44,
         "YC": -3.06,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/13/20D",
@@ -1713,7 +1713,7 @@
         "Percent": -0.55,
         "DA": -0.47,
         "YC": -3.59,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/14/20D",
@@ -1724,7 +1724,7 @@
         "Percent": 0.02,
         "DA": -0.21,
         "YC": -3.57,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/17/20D",
@@ -1735,7 +1735,7 @@
         "Percent": -0.31,
         "DA": -0.35,
         "YC": -3.87,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/18/20D",
@@ -1746,7 +1746,7 @@
         "Percent": -0.32,
         "DA": -0.74,
         "YC": -4.18,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/19/20D",
@@ -1757,7 +1757,7 @@
         "Percent": 0.25,
         "DA": -0.14,
         "YC": -3.94,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/20/20D",
@@ -1768,7 +1768,7 @@
         "Percent": 0.2,
         "DA": -0.25,
         "YC": -3.75,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/21/20D",
@@ -1779,7 +1779,7 @@
         "Percent": 0.25,
         "DA": -0.15,
         "YC": -3.51,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/24/20D",
@@ -1790,7 +1790,7 @@
         "Percent": -0.14,
         "DA": -0.39,
         "YC": -3.64,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/25/20D",
@@ -1801,7 +1801,7 @@
         "Percent": 0.01,
         "DA": -0.33,
         "YC": -3.63,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/26/20D",
@@ -1812,7 +1812,7 @@
         "Percent": 0.01,
         "DA": -0.18,
         "YC": -3.62,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/27/20D",
@@ -1823,7 +1823,7 @@
         "Percent": -0.04,
         "DA": -0.46,
         "YC": -3.66,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/28/20D",
@@ -1834,7 +1834,7 @@
         "Percent": -0.24,
         "DA": -0.88,
         "YC": -3.89,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-08/31/20D",
@@ -1845,7 +1845,7 @@
         "Percent": -0.67,
         "DA": -0.33,
         "YC": -4.53,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/01/20D",
@@ -1856,7 +1856,7 @@
         "Percent": -0.09,
         "DA": -0.46,
         "YC": -4.61,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/02/20D",
@@ -1867,7 +1867,7 @@
         "Percent": 0.51,
         "DA": -0.08,
         "YC": -4.13,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/03/20D",
@@ -1878,7 +1878,7 @@
         "Percent": 0.22,
         "DA": -0.01,
         "YC": -3.92,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/04/20D",
@@ -1889,7 +1889,7 @@
         "Percent": 0.18,
         "DA": -0.15,
         "YC": -3.75,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/08/20D",
@@ -1900,7 +1900,7 @@
         "Percent": 0.28,
         "DA": -0.05,
         "YC": -3.48,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/09/20D",
@@ -1911,7 +1911,7 @@
         "Percent": 0.17,
         "DA": -0.47,
         "YC": -3.31,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/10/20D",
@@ -1922,7 +1922,7 @@
         "Percent": -0.22,
         "DA": -0.57,
         "YC": -3.53,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/11/20D",
@@ -1933,7 +1933,7 @@
         "Percent": -0.07,
         "DA": -0.25,
         "YC": -3.6,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/14/20D",
@@ -1944,7 +1944,7 @@
         "Percent": -0.05,
         "DA": -0.45,
         "YC": -3.65,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/15/20D",
@@ -1955,7 +1955,7 @@
         "Percent": -0.2,
         "DA": -0.29,
         "YC": -3.85,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/16/20D",
@@ -1966,7 +1966,7 @@
         "Percent": 0.15,
         "DA": -0.32,
         "YC": -3.71,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/17/20D",
@@ -1977,7 +1977,7 @@
         "Percent": 0.33,
         "DA": -0.3,
         "YC": -3.39,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/18/20D",
@@ -1988,7 +1988,7 @@
         "Percent": -0.62,
         "DA": -0.1,
         "YC": -3.98,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/21/20D",
@@ -1999,7 +1999,7 @@
         "Percent": 0.83,
         "DA": -0.28,
         "YC": -3.19,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/22/20D",
@@ -2010,7 +2010,7 @@
         "Percent": 0.32,
         "DA": -0.09,
         "YC": -2.88,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/23/20D",
@@ -2021,7 +2021,7 @@
         "Percent": 0.37,
         "DA": -0.06,
         "YC": -2.52,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/24/20D",
@@ -2032,7 +2032,7 @@
         "Percent": 0.17,
         "DA": -0.19,
         "YC": -2.35,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/25/20D",
@@ -2043,7 +2043,7 @@
         "Percent": 0.16,
         "DA": -0.14,
         "YC": -2.2,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/28/20D",
@@ -2054,7 +2054,7 @@
         "Percent": -0.11,
         "DA": -0.45,
         "YC": -2.3,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/29/20D",
@@ -2065,7 +2065,7 @@
         "Percent": -0.36,
         "DA": -0.44,
         "YC": -2.65,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-09/30/20D",
@@ -2076,7 +2076,7 @@
         "Percent": -0.12,
         "DA": -0.19,
         "YC": -2.77,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/01/20D",
@@ -2087,7 +2087,7 @@
         "Percent": -0.29,
         "DA": -0.29,
         "YC": -3.05,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/02/20D",
@@ -2098,7 +2098,7 @@
         "Percent": 0.12,
         "DA": -0.04,
         "YC": -2.93,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/05/20D",
@@ -2109,7 +2109,7 @@
         "Percent": -0.17,
         "DA": -0.47,
         "YC": -3.1,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/06/20D",
@@ -2120,7 +2120,7 @@
         "Percent": -0.02,
         "DA": -0.11,
         "YC": -3.12,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/07/20D",
@@ -2131,7 +2131,7 @@
         "Percent": 0.05,
         "DA": -0.29,
         "YC": -3.07,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/08/20D",
@@ -2142,7 +2142,7 @@
         "Percent": -0.13,
         "DA": -0.12,
         "YC": -3.19,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/09/20D",
@@ -2153,7 +2153,7 @@
         "Percent": -0.2,
         "DA": -0.59,
         "YC": -3.39,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/12/20D",
@@ -2164,7 +2164,7 @@
         "Percent": -0.37,
         "DA": -0.05,
         "YC": -3.75,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/13/20D",
@@ -2175,7 +2175,7 @@
         "Percent": 0.39,
         "DA": 0.0,
         "YC": -3.38,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/14/20D",
@@ -2186,7 +2186,7 @@
         "Percent": 0.07,
         "DA": -0.31,
         "YC": -3.3,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/15/20D",
@@ -2197,7 +2197,7 @@
         "Percent": 0.25,
         "DA": -0.06,
         "YC": -3.07,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/16/20D",
@@ -2208,7 +2208,7 @@
         "Percent": -0.02,
         "DA": -0.29,
         "YC": -3.09,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/19/20D",
@@ -2219,7 +2219,7 @@
         "Percent": -0.12,
         "DA": -0.54,
         "YC": -3.2,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/20/20D",
@@ -2230,7 +2230,7 @@
         "Percent": -0.29,
         "DA": -0.45,
         "YC": -3.48,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/21/20D",
@@ -2241,7 +2241,7 @@
         "Percent": -0.46,
         "DA": -0.62,
         "YC": -3.92,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/22/20D",
@@ -2252,7 +2252,7 @@
         "Percent": -0.11,
         "DA": -0.06,
         "YC": -4.03,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/23/20D",
@@ -2263,7 +2263,7 @@
         "Percent": 0.17,
         "DA": -0.29,
         "YC": -3.86,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/26/20D",
@@ -2274,7 +2274,7 @@
         "Percent": -0.02,
         "DA": -0.02,
         "YC": -3.88,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/27/20D",
@@ -2285,7 +2285,7 @@
         "Percent": 0.02,
         "DA": -0.3,
         "YC": -3.86,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/28/20D",
@@ -2296,7 +2296,7 @@
         "Percent": 0.56,
         "DA": -0.11,
         "YC": -3.32,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/29/20D",
@@ -2307,7 +2307,7 @@
         "Percent": 0.48,
         "DA": -0.13,
         "YC": -2.86,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-10/30/20D",
@@ -2318,7 +2318,7 @@
         "Percent": -0.02,
         "DA": -0.29,
         "YC": -2.88,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/02/20D",
@@ -2329,7 +2329,7 @@
         "Percent": 0.22,
         "DA": 0.0,
         "YC": -2.66,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/03/20D",
@@ -2340,7 +2340,7 @@
         "Percent": -0.25,
         "DA": -0.81,
         "YC": -2.91,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/04/20D",
@@ -2351,7 +2351,7 @@
         "Percent": 0.27,
         "DA": 0.0,
         "YC": -2.65,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/05/20D",
@@ -2362,7 +2362,7 @@
         "Percent": -0.8,
         "DA": -0.9,
         "YC": -3.43,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/06/20D",
@@ -2373,7 +2373,7 @@
         "Percent": -0.78,
         "DA": -0.42,
         "YC": -4.18,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/09/20D",
@@ -2384,7 +2384,7 @@
         "Percent": 0.15,
         "DA": -0.12,
         "YC": -4.04,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/10/20D",
@@ -2395,7 +2395,7 @@
         "Percent": 0.01,
         "DA": -0.17,
         "YC": -4.03,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/11/20D",
@@ -2406,7 +2406,7 @@
         "Percent": 0.26,
         "DA": -0.1,
         "YC": -3.78,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/12/20D",
@@ -2417,7 +2417,7 @@
         "Percent": -0.08,
         "DA": -0.25,
         "YC": -3.85,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/13/20D",
@@ -2428,7 +2428,7 @@
         "Percent": -0.14,
         "DA": -0.26,
         "YC": -3.98,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/16/20D",
@@ -2439,7 +2439,7 @@
         "Percent": -0.18,
         "DA": -0.28,
         "YC": -4.16,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/17/20D",
@@ -2450,7 +2450,7 @@
         "Percent": -0.25,
         "DA": -0.24,
         "YC": -4.4,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/18/20D",
@@ -2461,7 +2461,7 @@
         "Percent": -0.11,
         "DA": -0.25,
         "YC": -4.5,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/19/20D",
@@ -2472,7 +2472,7 @@
         "Percent": 0.23,
         "DA": -0.35,
         "YC": -4.28,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/20/20D",
@@ -2483,7 +2483,7 @@
         "Percent": -0.31,
         "DA": -0.14,
         "YC": -4.58,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/23/20D",
@@ -2494,7 +2494,7 @@
         "Percent": 0.4,
         "DA": -0.41,
         "YC": -4.2,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/24/20D",
@@ -2505,7 +2505,7 @@
         "Percent": -0.26,
         "DA": -0.43,
         "YC": -4.45,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/25/20D",
@@ -2516,7 +2516,7 @@
         "Percent": -0.32,
         "DA": -0.19,
         "YC": -4.76,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/27/20D",
@@ -2527,7 +2527,7 @@
         "Percent": -0.23,
         "DA": -0.28,
         "YC": -4.98,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-11/30/20D",
@@ -2538,7 +2538,7 @@
         "Percent": 0.0,
         "DA": -0.29,
         "YC": -4.98,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/01/20D",
@@ -2549,7 +2549,7 @@
         "Percent": -0.11,
         "DA": -0.86,
         "YC": -5.08,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/02/20D",
@@ -2560,7 +2560,7 @@
         "Percent": -0.49,
         "DA": -0.22,
         "YC": -5.54,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/03/20D",
@@ -2571,7 +2571,7 @@
         "Percent": -0.45,
         "DA": -0.6,
         "YC": -5.97,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/04/20D",
@@ -2582,7 +2582,7 @@
         "Percent": -0.24,
         "DA": -0.25,
         "YC": -6.19,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/07/20D",
@@ -2593,7 +2593,7 @@
         "Percent": 0.41,
         "DA": -0.21,
         "YC": -5.81,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/08/20D",
@@ -2604,7 +2604,7 @@
         "Percent": -0.24,
         "DA": -0.16,
         "YC": -6.04,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/09/20D",
@@ -2615,7 +2615,7 @@
         "Percent": 0.2,
         "DA": -0.25,
         "YC": -5.85,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/10/20D",
@@ -2626,7 +2626,7 @@
         "Percent": -0.05,
         "DA": -0.43,
         "YC": -5.9,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/11/20D",
@@ -2637,7 +2637,7 @@
         "Percent": -0.12,
         "DA": -0.13,
         "YC": -6.02,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/14/20D",
@@ -2648,7 +2648,7 @@
         "Percent": -0.07,
         "DA": -0.62,
         "YC": -6.08,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/15/20D",
@@ -2659,7 +2659,7 @@
         "Percent": -0.18,
         "DA": -0.3,
         "YC": -6.25,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/16/20D",
@@ -2670,7 +2670,7 @@
         "Percent": -0.13,
         "DA": -0.4,
         "YC": -6.37,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/17/20D",
@@ -2681,7 +2681,7 @@
         "Percent": -0.47,
         "DA": -0.6,
         "YC": -6.81,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/18/20D",
@@ -2692,7 +2692,7 @@
         "Percent": -0.16,
         "DA": 0.0,
         "YC": -6.96,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/21/20D",
@@ -2703,7 +2703,7 @@
         "Percent": 0.99,
         "DA": 0.0,
         "YC": -6.04,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/22/20D",
@@ -2714,7 +2714,7 @@
         "Percent": -0.33,
         "DA": -0.03,
         "YC": -6.35,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/23/20D",
@@ -2725,7 +2725,7 @@
         "Percent": -0.06,
         "DA": -0.4,
         "YC": -6.4,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/24/20D",
@@ -2736,7 +2736,7 @@
         "Percent": -0.32,
         "DA": -0.14,
         "YC": -6.7,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/28/20D",
@@ -2747,7 +2747,7 @@
         "Percent": 0.0,
         "DA": -0.27,
         "YC": -6.7,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/29/20D",
@@ -2758,7 +2758,7 @@
         "Percent": -0.17,
         "DA": -0.4,
         "YC": -6.85,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/30/20D",
@@ -2769,7 +2769,7 @@
         "Percent": -0.28,
         "DA": -0.47,
         "YC": -7.11,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2020Y-00M-12/31/20D",
@@ -2780,7 +2780,7 @@
         "Percent": 0.0,
         "DA": -0.1,
         "YC": -7.11,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-01/04/21D",
@@ -2894,13 +2894,13 @@
     },
     {
         "Date": "2021Y-00M-01/18/21D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3596.224
     },
     {
@@ -3099,7 +3099,7 @@
         "Percent": -0.07,
         "DA": -0.22,
         "YC": 0.59,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-02/12/21D",
@@ -3110,7 +3110,7 @@
         "Percent": 0.3,
         "DA": -0.03,
         "YC": 0.89,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-02/16/21D",
@@ -3121,7 +3121,7 @@
         "Percent": -0.11,
         "DA": -0.19,
         "YC": 0.78,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-02/17/21D",
@@ -3132,7 +3132,7 @@
         "Percent": 0.46,
         "DA": -0.1,
         "YC": 1.25,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-02/18/21D",
@@ -3477,13 +3477,13 @@
     },
     {
         "Date": "2021Y-00M-04/02/21D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3484.392
     },
     {
@@ -3495,7 +3495,7 @@
         "Percent": -0.25,
         "DA": -0.5,
         "YC": 3.52,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-04/06/21D",
@@ -3715,7 +3715,7 @@
         "Percent": 0.08,
         "DA": -0.47,
         "YC": 1.61,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-05/04/21D",
@@ -3726,7 +3726,7 @@
         "Percent": 0.01,
         "DA": -0.01,
         "YC": 1.62,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-05/05/21D",
@@ -3737,7 +3737,7 @@
         "Percent": 0.04,
         "DA": -0.12,
         "YC": 1.67,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-05/06/21D",
@@ -3928,13 +3928,13 @@
     },
     {
         "Date": "2021Y-00M-05/31/21D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3615.477
     },
     {
@@ -4045,7 +4045,7 @@
         "Percent": -0.01,
         "DA": -0.11,
         "YC": 0.73,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-06/15/21D",
@@ -4203,13 +4203,13 @@
     },
     {
         "Date": "2021Y-00M-07/05/21D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3534.322
     },
     {
@@ -4698,13 +4698,13 @@
     },
     {
         "Date": "2021Y-00M-09/06/21D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3621.859
     },
     {
@@ -4815,7 +4815,7 @@
         "Percent": 0.21,
         "DA": -0.06,
         "YC": 3.9,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-09/21/21D",
@@ -4826,7 +4826,7 @@
         "Percent": -0.17,
         "DA": -0.2,
         "YC": 3.72,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-09/22/21D",
@@ -4914,7 +4914,7 @@
         "Percent": -0.12,
         "DA": -0.34,
         "YC": 4.95,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-10/04/21D",
@@ -4925,7 +4925,7 @@
         "Percent": -0.31,
         "DA": -0.41,
         "YC": 4.63,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-10/05/21D",
@@ -4936,7 +4936,7 @@
         "Percent": -0.03,
         "DA": -0.02,
         "YC": 4.59,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-10/06/21D",
@@ -4947,7 +4947,7 @@
         "Percent": 0.4,
         "DA": -0.01,
         "YC": 5.01,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-10/07/21D",
@@ -4958,7 +4958,7 @@
         "Percent": -0.18,
         "DA": -0.16,
         "YC": 4.83,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2021Y-00M-10/08/21D",
@@ -5336,13 +5336,13 @@
     },
     {
         "Date": "2021Y-00M-11/25/21D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3584.179
     },
     {
@@ -5567,13 +5567,13 @@
     },
     {
         "Date": "2021Y-00M-12/24/21D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3618.054
     },
     {
@@ -5640,7 +5640,7 @@
         "Percent": 0.23,
         "DA": -0.04,
         "YC": 0.0,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-01/04/22D",
@@ -5743,13 +5743,13 @@
     },
     {
         "Date": "2022Y-00M-01/17/22D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3541.666
     },
     {
@@ -5860,7 +5860,7 @@
         "Percent": -0.14,
         "DA": -0.72,
         "YC": 1.01,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-02/01/22D",
@@ -5871,7 +5871,7 @@
         "Percent": -0.6,
         "DA": -0.47,
         "YC": 0.4,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-02/02/22D",
@@ -5882,7 +5882,7 @@
         "Percent": -0.43,
         "DA": -0.48,
         "YC": -0.03,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-02/03/22D",
@@ -5893,7 +5893,7 @@
         "Percent": -0.05,
         "DA": -0.81,
         "YC": -0.08,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-02/04/22D",
@@ -5904,7 +5904,7 @@
         "Percent": -0.57,
         "DA": -0.18,
         "YC": -0.65,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-02/07/22D",
@@ -6018,13 +6018,13 @@
     },
     {
         "Date": "2022Y-00M-02/21/22D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3490.612
     },
     {
@@ -6355,7 +6355,7 @@
         "Percent": 0.34,
         "DA": -0.05,
         "YC": 2.85,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-04/05/22D",
@@ -6366,7 +6366,7 @@
         "Percent": 0.44,
         "DA": -0.16,
         "YC": 3.31,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-04/06/22D",
@@ -6447,13 +6447,13 @@
     },
     {
         "Date": "2022Y-00M-04/15/22D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3211.245
     },
     {
@@ -6575,7 +6575,7 @@
         "Percent": 0.08,
         "DA": -0.1,
         "YC": 7.7,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-05/03/22D",
@@ -6586,7 +6586,7 @@
         "Percent": -0.08,
         "DA": -0.55,
         "YC": 7.62,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-05/04/22D",
@@ -6597,7 +6597,7 @@
         "Percent": -0.05,
         "DA": -0.96,
         "YC": 7.57,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-05/05/22D",
@@ -6788,13 +6788,13 @@
     },
     {
         "Date": "2022Y-00M-05/30/22D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3149.061
     },
     {
@@ -6839,7 +6839,7 @@
         "Percent": -0.38,
         "DA": -0.11,
         "YC": 6.12,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-06/06/22D",
@@ -6953,13 +6953,13 @@
     },
     {
         "Date": "2022Y-00M-06/20/22D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3315.43
     },
     {
@@ -7063,13 +7063,13 @@
     },
     {
         "Date": "2022Y-00M-07/04/22D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3405.427
     },
     {
@@ -7558,13 +7558,13 @@
     },
     {
         "Date": "2022Y-00M-09/05/22D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3199.912
     },
     {
@@ -7620,7 +7620,7 @@
         "Percent": -0.62,
         "DA": -0.72,
         "YC": 13.01,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-09/13/22D",
@@ -7785,7 +7785,7 @@
         "Percent": -0.12,
         "DA": -0.62,
         "YC": 16.83,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-10/04/22D",
@@ -7796,7 +7796,7 @@
         "Percent": -0.58,
         "DA": -1.36,
         "YC": 16.15,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-10/05/22D",
@@ -7807,7 +7807,7 @@
         "Percent": -0.13,
         "DA": -0.13,
         "YC": 16.0,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-10/06/22D",
@@ -7818,7 +7818,7 @@
         "Percent": 0.51,
         "DA": -0.21,
         "YC": 16.59,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-10/07/22D",
@@ -7829,7 +7829,7 @@
         "Percent": 0.51,
         "DA": -0.27,
         "YC": 17.18,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2022Y-00M-10/10/22D",
@@ -8196,13 +8196,13 @@
     },
     {
         "Date": "2022Y-00M-11/24/22D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3089.31
     },
     {
@@ -8438,13 +8438,13 @@
     },
     {
         "Date": "2022Y-00M-12/26/22D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3065.563
     },
     {
@@ -8592,13 +8592,13 @@
     },
     {
         "Date": "2023Y-00M-01/16/23D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3227.592
     },
     {
@@ -8654,7 +8654,7 @@
         "Percent": -0.26,
         "DA": -0.39,
         "YC": -2.46,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-01/24/23D",
@@ -8665,7 +8665,7 @@
         "Percent": 0.15,
         "DA": -0.26,
         "YC": -2.32,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-01/25/23D",
@@ -8676,7 +8676,7 @@
         "Percent": -0.3,
         "DA": -0.42,
         "YC": -2.61,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-01/26/23D",
@@ -8687,7 +8687,7 @@
         "Percent": 0.06,
         "DA": -0.08,
         "YC": -2.56,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-01/27/23D",
@@ -8698,7 +8698,7 @@
         "Percent": 0.01,
         "DA": -0.04,
         "YC": -2.55,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-01/30/23D",
@@ -8867,13 +8867,13 @@
     },
     {
         "Date": "2023Y-00M-02/20/23D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3290.338
     },
     {
@@ -9226,7 +9226,7 @@
         "Percent": -0.28,
         "DA": -0.1,
         "YC": -2.74,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-04/06/23D",
@@ -9241,13 +9241,13 @@
     },
     {
         "Date": "2023Y-00M-04/07/23D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3327.646
     },
     {
@@ -9424,7 +9424,7 @@
         "Percent": 0.02,
         "DA": -0.05,
         "YC": -2.55,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-05/02/23D",
@@ -9435,7 +9435,7 @@
         "Percent": 0.21,
         "DA": -0.26,
         "YC": -2.35,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-05/03/23D",
@@ -9446,7 +9446,7 @@
         "Percent": -0.47,
         "DA": -0.77,
         "YC": -2.8,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-05/04/23D",
@@ -9637,13 +9637,13 @@
     },
     {
         "Date": "2023Y-00M-05/29/23D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3221.448
     },
     {
@@ -9802,13 +9802,13 @@
     },
     {
         "Date": "2023Y-00M-06/19/23D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3255.806
     },
     {
@@ -9842,7 +9842,7 @@
         "Percent": -0.23,
         "DA": -0.11,
         "YC": -2.28,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-06/23/23D",
@@ -9853,7 +9853,7 @@
         "Percent": 0.68,
         "DA": 0.0,
         "YC": -1.61,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-06/26/23D",
@@ -9923,13 +9923,13 @@
     },
     {
         "Date": "2023Y-00M-07/04/23D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3245.349
     },
     {
@@ -10407,13 +10407,13 @@
     },
     {
         "Date": "2023Y-00M-09/04/23D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3177.06
     },
     {
@@ -10623,7 +10623,7 @@
         "Percent": -0.49,
         "DA": -0.46,
         "YC": 1.32,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-10/02/23D",
@@ -10634,7 +10634,7 @@
         "Percent": 0.74,
         "DA": -0.12,
         "YC": 2.07,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-10/03/23D",
@@ -10645,7 +10645,7 @@
         "Percent": 0.3,
         "DA": -0.11,
         "YC": 2.37,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-10/04/23D",
@@ -10656,7 +10656,7 @@
         "Percent": -0.1,
         "DA": -0.51,
         "YC": 2.27,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-10/05/23D",
@@ -10667,7 +10667,7 @@
         "Percent": -0.35,
         "DA": -0.42,
         "YC": 1.91,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-10/06/23D",
@@ -10678,7 +10678,7 @@
         "Percent": 0.1,
         "DA": -0.38,
         "YC": 2.01,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-10/09/23D",
@@ -11045,13 +11045,13 @@
     },
     {
         "Date": "2023Y-00M-11/23/23D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3061.856
     },
     {
@@ -11294,17 +11294,17 @@
         "Percent": -0.19,
         "DA": 0.45,
         "YC": -3.0,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2023Y-00M-12/25/23D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 2918.813
     },
     {
@@ -11668,7 +11668,7 @@
         "Percent": -0.16,
         "DA": -0.18,
         "YC": 1.97,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-02/12/24D",
@@ -11679,7 +11679,7 @@
         "Percent": 0.02,
         "DA": -0.17,
         "YC": 1.99,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-02/13/24D",
@@ -11690,7 +11690,7 @@
         "Percent": 0.65,
         "DA": -0.2,
         "YC": 2.65,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-02/14/24D",
@@ -11701,7 +11701,7 @@
         "Percent": 0.02,
         "DA": -0.17,
         "YC": 2.67,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-02/15/24D",
@@ -11712,7 +11712,7 @@
         "Percent": -0.26,
         "DA": -0.46,
         "YC": 2.41,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-02/16/24D",
@@ -11723,7 +11723,7 @@
         "Percent": -0.04,
         "DA": -0.12,
         "YC": 2.37,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-02/19/24D",
@@ -12097,7 +12097,7 @@
         "Percent": -0.55,
         "DA": -0.3,
         "YC": 1.97,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-04/05/24D",
@@ -12108,7 +12108,7 @@
         "Percent": 0.41,
         "DA": -0.07,
         "YC": 2.39,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-04/08/24D",
@@ -12306,7 +12306,7 @@
         "Percent": 0.13,
         "DA": -0.83,
         "YC": 4.15,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-05/02/24D",
@@ -12317,7 +12317,7 @@
         "Percent": -0.55,
         "DA": -0.4,
         "YC": 3.57,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-05/03/24D",
@@ -12328,7 +12328,7 @@
         "Percent": -0.5,
         "DA": -0.75,
         "YC": 3.05,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-05/06/24D",
@@ -12497,13 +12497,13 @@
     },
     {
         "Date": "2024Y-00M-05/27/24D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3124.043
     },
     {
@@ -12614,7 +12614,7 @@
         "Percent": 0.42,
         "DA": 0.0,
         "YC": 3.07,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-06/11/24D",
@@ -12684,13 +12684,13 @@
     },
     {
         "Date": "2024Y-00M-06/19/24D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3018.049
     },
     {
@@ -13267,13 +13267,13 @@
     },
     {
         "Date": "2024Y-00M-09/02/24D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 2811.035
     },
     {
@@ -13384,7 +13384,7 @@
         "Percent": -0.1,
         "DA": -0.44,
         "YC": -1.12,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-09/17/24D",
@@ -13395,7 +13395,7 @@
         "Percent": -0.07,
         "DA": -0.19,
         "YC": -1.19,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-09/18/24D",
@@ -13505,7 +13505,7 @@
         "Percent": 0.47,
         "DA": -0.04,
         "YC": -0.84,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-10/02/24D",
@@ -13516,7 +13516,7 @@
         "Percent": 0.3,
         "DA": -0.08,
         "YC": -0.55,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-10/03/24D",
@@ -13527,7 +13527,7 @@
         "Percent": 0.4,
         "DA": -0.01,
         "YC": -0.15,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-10/04/24D",
@@ -13538,7 +13538,7 @@
         "Percent": 0.58,
         "DA": -0.1,
         "YC": 0.43,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-10/07/24D",
@@ -13549,7 +13549,7 @@
         "Percent": -0.07,
         "DA": -0.12,
         "YC": 0.36,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2024Y-00M-10/08/24D",
@@ -14169,13 +14169,13 @@
     },
     {
         "Date": "2024Y-00M-12/25/24D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3393.35
     },
     {
@@ -14429,7 +14429,7 @@
         "Percent": 0.22,
         "DA": -0.02,
         "YC": -1.35,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-01/29/25D",
@@ -14440,7 +14440,7 @@
         "Percent": 0.23,
         "DA": -0.13,
         "YC": -1.12,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-01/30/25D",
@@ -14451,7 +14451,7 @@
         "Percent": -0.06,
         "DA": -0.33,
         "YC": -1.18,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-01/31/25D",
@@ -14462,7 +14462,7 @@
         "Percent": 0.3,
         "DA": -0.34,
         "YC": -0.88,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-02/03/25D",
@@ -14473,7 +14473,7 @@
         "Percent": 1.21,
         "DA": -0.15,
         "YC": 0.32,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-02/04/25D",
@@ -14484,7 +14484,7 @@
         "Percent": -0.76,
         "DA": -0.69,
         "YC": -0.45,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-02/05/25D",
@@ -14576,13 +14576,13 @@
     },
     {
         "Date": "2025Y-00M-02/17/25D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3355.83
     },
     {
@@ -14957,7 +14957,7 @@
         "Percent": -0.19,
         "DA": -0.44,
         "YC": -5.8,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-04/07/25D",
@@ -15060,13 +15060,13 @@
     },
     {
         "Date": "2025Y-00M-04/18/25D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3276.73
     },
     {
@@ -15166,7 +15166,7 @@
         "Percent": 0.67,
         "DA": -0.04,
         "YC": -8.35,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-05/02/25D",
@@ -15177,7 +15177,7 @@
         "Percent": -0.05,
         "DA": -0.78,
         "YC": -8.4,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-05/05/25D",
@@ -15188,7 +15188,7 @@
         "Percent": -0.28,
         "DA": -0.54,
         "YC": -8.66,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-05/06/25D",
@@ -15408,7 +15408,7 @@
         "Percent": -0.25,
         "DA": -0.8,
         "YC": -9.23,
-        "Close_SZI": NaN
+        "Close_SZI": null
     },
     {
         "Date": "2025Y-00M-06/03/25D",
@@ -15437,32 +15437,7 @@
         "Open": 98.74,
         "Close_UDI": 98.94,
         "High": 98.35,
-        "Low": 98.8,
-        "Percent": -0.45,
-        "DA": -0.45,
-        "YC": -9.67,
-        "Close_SZI": 3384.099
-    },
-    {
-        "Date": "2025Y-00M-06/06/25D",
-        "Open": 99.19,
-        "Close_UDI": 99.36,
-        "High": 98.66,
-        "Low": 98.7,
-        "Percent": 0.42,
-        "DA": -0.04,
-        "YC": -9.29,
-        "Close_SZI": 3385.358
-    },
-    {
-        "Date": "2025Y-00M-06/09/25D",
-        "Open": 98.94,
-        "Close_UDI": 99.23,
-        "High": 98.82,
-        "Low": 99.2,
-        "Percent": -0.13,
-        "DA": -0.38,
-        "YC": -9.4,
+        "Low": : -9.4,
         "Close_SZI": 3399.772
     },
     {
