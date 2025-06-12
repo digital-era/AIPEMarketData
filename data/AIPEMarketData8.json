@@ -23422,7 +23422,181 @@
         "High_GDI": 3198.6,
         "Low_GDI": 3272.9,
         "Percent_GDI": null,
-        ,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/02/25D",
+        "Open_UDI": 100.0,
+        "Close_UDI": 100.33,
+        "High_UDI": 99.4,
+        "Low_UDI": 100.18,
+        "Percent_UDI": -0.05,
+        "DA_UDI": -0.78,
+        "YC_UDI": -8.4,
+        "Open_GDI": 3231.9,
+        "Close_GDI": 3257.0,
+        "High_GDI": 3225.0,
+        "Low_GDI": 3239.9,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/05/25D",
+        "Open_UDI": 99.83,
+        "Close_UDI": 100.05,
+        "High_UDI": 99.46,
+        "Low_UDI": 100.0,
+        "Percent_UDI": -0.28,
+        "DA_UDI": -0.54,
+        "YC_UDI": -8.66,
+        "Open_GDI": 3311.3,
+        "Close_GDI": 3315.7,
+        "High_GDI": 3239.7,
+        "Low_GDI": 3242.7,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/06/25D",
+        "Open_UDI": 99.24,
+        "Close_UDI": 100.1,
+        "High_UDI": 99.17,
+        "Low_UDI": 99.83,
+        "Percent_UDI": 0.05,
+        "DA_UDI": -0.66,
+        "YC_UDI": -8.61,
+        "Open_GDI": 3411.4,
+        "Close_GDI": 3430.9,
+        "High_GDI": 3356.8,
+        "Low_GDI": 3365.5,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/07/25D",
+        "Open_UDI": 99.61,
+        "Close_UDI": 99.97,
+        "High_UDI": 99.29,
+        "Low_UDI": 99.5,
+        "Percent_UDI": -0.13,
+        "DA_UDI": -0.21,
+        "YC_UDI": -8.73,
+        "Open_GDI": 3381.4,
+        "Close_GDI": 3418.7,
+        "High_GDI": 3364.7,
+        "Low_GDI": 3418.7,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/08/25D",
+        "Open_UDI": 100.64,
+        "Close_UDI": 100.76,
+        "High_UDI": 99.61,
+        "Low_UDI": 99.85,
+        "Percent_UDI": 0.79,
+        "DA_UDI": -0.24,
+        "YC_UDI": -8.01,
+        "Open_GDI": 3296.6,
+        "Close_GDI": 3390.0,
+        "High_GDI": 3288.7,
+        "Low_GDI": 3390.0,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/09/25D",
+        "Open_UDI": 100.34,
+        "Close_UDI": 100.86,
+        "High_UDI": 100.09,
+        "Low_UDI": 100.64,
+        "Percent_UDI": 0.1,
+        "DA_UDI": -0.55,
+        "YC_UDI": -7.92,
+        "Open_GDI": 3335.4,
+        "Close_GDI": 3335.5,
+        "High_GDI": 3299.0,
+        "Low_GDI": 3299.0,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/12/25D",
+        "Open_UDI": 101.79,
+        "Close_UDI": 101.98,
+        "High_UDI": 100.51,
+        "Low_UDI": 100.69,
+        "Percent_UDI": 1.11,
+        "DA_UDI": -0.18,
+        "YC_UDI": -6.89,
+        "Open_GDI": 3220.0,
+        "Close_GDI": 3300.7,
+        "High_GDI": 3205.0,
+        "Low_GDI": 3300.7,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/13/25D",
+        "Open_UDI": 101.0,
+        "Close_UDI": 101.76,
+        "High_UDI": 100.91,
+        "Low_UDI": 101.73,
+        "Percent_UDI": -0.22,
+        "DA_UDI": -0.8,
+        "YC_UDI": -7.09,
+        "Open_GDI": 3240.3,
+        "Close_GDI": 3251.4,
+        "High_GDI": 3223.5,
+        "Low_GDI": 3232.0,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/14/25D",
+        "Open_UDI": 101.04,
+        "Close_UDI": 101.14,
+        "High_UDI": 100.27,
+        "Low_UDI": 100.95,
+        "Percent_UDI": -0.61,
+        "DA_UDI": -0.67,
+        "YC_UDI": -7.66,
+        "Open_GDI": 3181.4,
+        "Close_GDI": 3233.0,
+        "High_GDI": 3171.7,
+        "Low_GDI": 3233.0,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/15/25D",
+        "Open_UDI": 100.88,
+        "Close_UDI": 101.06,
+        "High_UDI": 100.59,
+        "Low_UDI": 100.97,
+        "Percent_UDI": -0.08,
+        "DA_UDI": -0.38,
+        "YC_UDI": -7.73,
+        "Open_GDI": 3220.7,
+        "Close_GDI": 3228.1,
+        "High_GDI": 3125.0,
+        "Low_GDI": 3151.0,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
+    },
+    {
+        "Date": "2025Y-00M-05/16/25D",
         "Open_UDI": 101.09,
         "Close_UDI": 101.26,
         "High_UDI": 100.52,
@@ -23434,9 +23608,9 @@
         "Close_GDI": 3228.1,
         "High_GDI": 3173.9,
         "Low_GDI": 3227.7,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-05/19/25D",
@@ -23451,9 +23625,9 @@
         "Close_GDI": 3241.0,
         "High_GDI": 3228.3,
         "Low_GDI": 3234.4,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-05/20/25D",
@@ -23468,9 +23642,9 @@
         "Close_GDI": 3293.2,
         "High_GDI": 3207.5,
         "Low_GDI": 3219.0,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-05/21/25D",
@@ -23485,9 +23659,9 @@
         "Close_GDI": 3317.5,
         "High_GDI": 3290.2,
         "Low_GDI": 3293.4,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-05/22/25D",
@@ -23502,9 +23676,9 @@
         "Close_GDI": 3328.0,
         "High_GDI": 3282.7,
         "Low_GDI": 3327.3,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-05/23/25D",
@@ -23519,9 +23693,9 @@
         "Close_GDI": 3363.6,
         "High_GDI": 3323.5,
         "Low_GDI": 3328.0,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-05/26/25D",
@@ -23532,13 +23706,13 @@
         "Percent_UDI": -0.78,
         "DA_UDI": -0.4,
         "YC_UDI": -9.47,
-        "Open_GDI": NaN,
-        "Close_GDI": NaN,
-        "High_GDI": NaN,
-        "Low_GDI": NaN,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Open_GDI": null,
+        "Close_GDI": null,
+        "High_GDI": null,
+        "Low_GDI": null,
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-05/27/25D",
@@ -23553,9 +23727,9 @@
         "Close_GDI": 3341.0,
         "High_GDI": 3296.3,
         "Low_GDI": 3332.5,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-05/28/25D",
@@ -23570,9 +23744,9 @@
         "Close_GDI": 3293.6,
         "High_GDI": 3293.6,
         "Low_GDI": 3293.6,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-05/29/25D",
@@ -23587,9 +23761,9 @@
         "Close_GDI": 3328.8,
         "High_GDI": 3242.4,
         "Low_GDI": 3283.7,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-05/30/25D",
@@ -23604,9 +23778,9 @@
         "Close_GDI": 3318.0,
         "High_GDI": 3270.9,
         "Low_GDI": 3315.1,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-06/02/25D",
@@ -23621,9 +23795,9 @@
         "Close_GDI": 3380.8,
         "High_GDI": 3296.9,
         "Low_GDI": 3296.9,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-06/03/25D",
@@ -23638,9 +23812,9 @@
         "Close_GDI": 3390.0,
         "High_GDI": 3331.3,
         "Low_GDI": 3385.1,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-06/04/25D",
@@ -23655,9 +23829,9 @@
         "Close_GDI": 3380.0,
         "High_GDI": 3344.0,
         "Low_GDI": 3355.0,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-06/05/25D",
@@ -23672,9 +23846,9 @@
         "Close_GDI": 3400.0,
         "High_GDI": 3343.7,
         "Low_GDI": 3371.5,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-06/06/25D",
@@ -23689,9 +23863,9 @@
         "Close_GDI": 3364.3,
         "High_GDI": 3306.0,
         "Low_GDI": 3364.3,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-06/09/25D",
@@ -23706,9 +23880,9 @@
         "Close_GDI": 3334.6,
         "High_GDI": 3290.0,
         "Low_GDI": 3315.6,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-06/10/25D",
@@ -23723,9 +23897,9 @@
         "Close_GDI": 3344.3,
         "High_GDI": 3302.0,
         "Low_GDI": 3302.0,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     },
     {
         "Date": "2025Y-00M-06/11/25D",
@@ -23740,8 +23914,8 @@
         "Close_GDI": 3356.0,
         "High_GDI": 3321.3,
         "Low_GDI": 3328.0,
-        "Percent_GDI": NaN,
-        "DA_GDI": NaN,
-        "YC_GDI": NaN
+        "Percent_GDI": null,
+        "DA_GDI": null,
+        "YC_GDI": null
     }
 ]

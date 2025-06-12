@@ -15437,7 +15437,32 @@
         "Open": 98.74,
         "Close_UDI": 98.94,
         "High": 98.35,
-        "Low": : -9.4,
+        "Low": 98.8,
+        "Percent": -0.45,
+        "DA": -0.45,
+        "YC": -9.67,
+        "Close_SZI": 3384.099
+    },
+    {
+        "Date": "2025Y-00M-06/06/25D",
+        "Open": 99.19,
+        "Close_UDI": 99.36,
+        "High": 98.66,
+        "Low": 98.7,
+        "Percent": 0.42,
+        "DA": -0.04,
+        "YC": -9.29,
+        "Close_SZI": 3385.358
+    },
+    {
+        "Date": "2025Y-00M-06/09/25D",
+        "Open": 98.94,
+        "Close_UDI": 99.23,
+        "High": 98.82,
+        "Low": 99.2,
+        "Percent": -0.13,
+        "DA": -0.38,
+        "YC": -9.4,
         "Close_SZI": 3399.772
     },
     {
@@ -15464,13 +15489,13 @@
     },
     {
         "Date": "2025Y-00M-06/12/25D",
-        "Open": NaN,
-        "Close_UDI": NaN,
-        "High": NaN,
-        "Low": NaN,
-        "Percent": NaN,
-        "DA": NaN,
-        "YC": NaN,
+        "Open": null,
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
         "Close_SZI": 3402.658
     }
 ]
