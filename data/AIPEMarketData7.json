@@ -2850,6 +2850,17 @@
     },
     {
         "Date": "2025-07-28",
+        "Open": 98.66,
+        "Close_UDI": 98.69,
+        "High": 97.49,
+        "Low": 97.58,
+        "Percent": 0.8,
+        "DA": -0.09,
+        "YC": -9.9,
+        "Close_SZI": 3597.937
+    },
+    {
+        "Date": "2025-07-29",
         "Open": null,
         "Close_UDI": null,
         "High": null,
@@ -2857,6 +2868,6 @@
         "Percent": null,
         "DA": null,
         "YC": null,
-        "Close_SZI": 3597.937
+        "Close_SZI": 3609.711
     }
 ]
