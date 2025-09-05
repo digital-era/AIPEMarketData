@@ -1,16 +1,5 @@
 [
     {
-        "Date": "2024-09-04",
-        "Close_UDI": 101.36,
-        "High": 101.78,
-        "Low": 101.24,
-        "Open": 101.69,
-        "Percent": -0.46,
-        "DA": 0.53,
-        "YC": -0.82,
-        "Close_SZI": 2784.278
-    },
-    {
         "Date": "2024-09-05",
         "Close_UDI": 101.11,
         "High": 101.37,
@@ -2861,6 +2850,17 @@
     },
     {
         "Date": "2025-09-04",
+        "Close_UDI": 98.35,
+        "High": 98.44,
+        "Low": 98.08,
+        "Open": 98.15,
+        "Percent": 0.21,
+        "DA": 0.37,
+        "YC": -10.09,
+        "Close_SZI": 3765.876
+    },
+    {
+        "Date": "2025-09-05",
         "Close_UDI": null,
         "High": null,
         "Low": null,
@@ -2868,6 +2868,6 @@
         "Percent": null,
         "DA": null,
         "YC": null,
-        "Close_SZI": 3765.876
+        "Close_SZI": 3812.514
     }
 ]
