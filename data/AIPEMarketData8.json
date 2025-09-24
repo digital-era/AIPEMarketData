@@ -24495,5 +24495,22 @@
         "Percent_GDI": 1.88,
         "DA_GDI": 1.64,
         "YC_GDI": 40.69
+    },
+    {
+        "Date": "2025-09-23",
+        "Close_UDI": 97.26,
+        "High_UDI": 97.46,
+        "Low_UDI": 97.2,
+        "Open_UDI": 97.32,
+        "Percent_UDI": -0.07,
+        "DA_UDI": 0.27,
+        "YC_UDI": -11.09,
+        "Close_GDI": 3780.6,
+        "High_GDI": 3786.0,
+        "Low_GDI": 3740.0,
+        "Open_GDI": 3747.0,
+        "Percent_GDI": 1.07,
+        "DA_GDI": 1.23,
+        "YC_GDI": 42.19
     }
 ]
