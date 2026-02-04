@@ -17315,13 +17315,13 @@
     },
     {
         "Date": "2026-02-03",
-        "Close_UDI": null,
-        "High": null,
-        "Low": null,
-        "Open": null,
-        "Percent": null,
-        "DA": null,
-        "YC": null,
+        "Close_UDI": 97.44,
+        "High": 97.69,
+        "Low": 97.3,
+        "Open": 97.52,
+        "Percent": -0.17,
+        "DA": 0.4,
+        "YC": -1.0,
         "Close_SZI": 4067.738
     }
 ]
