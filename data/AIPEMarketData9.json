@@ -1,22 +1,5 @@
 [
     {
-        "Date": "2025-05-20",
-        "Close_UDI": 100.12,
-        "High_UDI": 100.58,
-        "Low_UDI": 100.01,
-        "Open_UDI": 100.43,
-        "Percent_UDI": -0.31,
-        "DA_UDI": 0.57,
-        "YC_UDI": -8.47,
-        "Close_GDI": 3280.3,
-        "High_GDI": 3293.2,
-        "Low_GDI": 3207.5,
-        "Open_GDI": 3219.0,
-        "Percent_GDI": 1.59,
-        "DA_GDI": 2.65,
-        "YC_GDI": 23.37
-    },
-    {
         "Date": "2025-05-21",
         "Close_UDI": 99.56,
         "High_UDI": 99.99,
@@ -4316,5 +4299,22 @@
         "Percent_GDI": 0.55,
         "DA_GDI": 1.47,
         "YC_GDI": 5.03
+    },
+    {
+        "Date": "2026-05-21",
+        "Close_UDI": 99.19,
+        "High_UDI": 99.52,
+        "Low_UDI": 99.06,
+        "Open_UDI": 99.12,
+        "Percent_UDI": 0.08,
+        "DA_UDI": 0.46,
+        "YC_UDI": 0.78,
+        "Close_GDI": 4539.8,
+        "High_GDI": 4539.8,
+        "Low_GDI": 4503.8,
+        "Open_GDI": 4507.2,
+        "Percent_GDI": 0.19,
+        "DA_GDI": 0.79,
+        "YC_GDI": 5.22
     }
 ]
