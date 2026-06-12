@@ -18305,17 +18305,28 @@
     },
     {
         "Date": "2026-06-10",
-        "Close_UDI": null,
-        "High": null,
-        "Low": null,
-        "Open": null,
-        "Percent": null,
-        "DA": null,
-        "YC": null,
+        "Close_UDI": 99.95,
+        "High": 100.05,
+        "Low": 99.72,
+        "Open": 100.01,
+        "Percent": 0.04,
+        "DA": 0.33,
+        "YC": 1.55,
         "Close_SZI": 3993.226
     },
     {
         "Date": "2026-06-11",
+        "Close_UDI": 99.86,
+        "High": 100.31,
+        "Low": 99.59,
+        "Open": 100.12,
+        "Percent": -0.09,
+        "DA": 0.72,
+        "YC": 1.46,
+        "Close_SZI": 3987.015
+    },
+    {
+        "Date": "2026-06-12",
         "Close_UDI": null,
         "High": null,
         "Low": null,
@@ -18323,6 +18334,6 @@
         "Percent": null,
         "DA": null,
         "YC": null,
-        "Close_SZI": 3987.015
+        "Close_SZI": 4031.513
     }
 ]
