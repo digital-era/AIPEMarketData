@@ -1,170 +1,174 @@
 [
     {
         "Industry Name": "通用机械II",
-        "Hot Frequency Index (%)": 11.11111111111111
+        "Hot Frequency Index (%)": 10.4
     },
     {
         "Industry Name": "元件II",
-        "Hot Frequency Index (%)": 8.547008547008547
-    },
-    {
-        "Industry Name": "自动化设备II",
-        "Hot Frequency Index (%)": 6.837606837606837
-    },
-    {
-        "Industry Name": "化学制品II",
-        "Hot Frequency Index (%)": 6.837606837606837
+        "Hot Frequency Index (%)": 8.8
     },
     {
         "Industry Name": "半导体II",
-        "Hot Frequency Index (%)": 5.128205128205129
-    },
-    {
-        "Industry Name": "电子制造II",
-        "Hot Frequency Index (%)": 4.273504273504273
+        "Hot Frequency Index (%)": 8.0
     },
     {
         "Industry Name": "塑料II",
-        "Hot Frequency Index (%)": 4.273504273504273
-    },
-    {
-        "Industry Name": "电子化学品II",
-        "Hot Frequency Index (%)": 4.273504273504273
+        "Hot Frequency Index (%)": 5.6
     },
     {
         "Industry Name": "光学光电子II",
-        "Hot Frequency Index (%)": 4.273504273504273
+        "Hot Frequency Index (%)": 5.6
     },
     {
-        "Industry Name": "专用设备II",
-        "Hot Frequency Index (%)": 3.418803418803419
+        "Industry Name": "化学制品II",
+        "Hot Frequency Index (%)": 5.6
     },
     {
-        "Industry Name": "通信设备II",
-        "Hot Frequency Index (%)": 3.418803418803419
+        "Industry Name": "电子化学品II",
+        "Hot Frequency Index (%)": 4.8
+    },
+    {
+        "Industry Name": "自动化设备II",
+        "Hot Frequency Index (%)": 4.8
+    },
+    {
+        "Industry Name": "电子制造II",
+        "Hot Frequency Index (%)": 4.8
     },
     {
         "Industry Name": "其他电子II",
-        "Hot Frequency Index (%)": 2.564102564102564
+        "Hot Frequency Index (%)": 3.2
     },
     {
-        "Industry Name": "稀有金属II",
-        "Hot Frequency Index (%)": 2.564102564102564
+        "Industry Name": "专用设备II",
+        "Hot Frequency Index (%)": 3.2
     },
     {
-        "Industry Name": "工程咨询服务II",
-        "Hot Frequency Index (%)": 1.709401709401709
-    },
-    {
-        "Industry Name": "金属非金属新材料II",
-        "Hot Frequency Index (%)": 1.709401709401709
+        "Industry Name": "通信设备II",
+        "Hot Frequency Index (%)": 3.2
     },
     {
         "Industry Name": "化学原料II",
-        "Hot Frequency Index (%)": 1.709401709401709
-    },
-    {
-        "Industry Name": "化学制药II",
-        "Hot Frequency Index (%)": 1.709401709401709
+        "Hot Frequency Index (%)": 1.6
     },
     {
         "Industry Name": "汽车零部件II",
-        "Hot Frequency Index (%)": 1.709401709401709
+        "Hot Frequency Index (%)": 1.6
     },
     {
-        "Industry Name": "化学纤维II",
-        "Hot Frequency Index (%)": 1.709401709401709
+        "Industry Name": "化学制药II",
+        "Hot Frequency Index (%)": 1.6
+    },
+    {
+        "Industry Name": "工程咨询服务II",
+        "Hot Frequency Index (%)": 1.6
+    },
+    {
+        "Industry Name": "稀有金属II",
+        "Hot Frequency Index (%)": 1.6
     },
     {
         "Industry Name": "电池II",
-        "Hot Frequency Index (%)": 1.709401709401709
-    },
-    {
-        "Industry Name": "广告营销II",
-        "Hot Frequency Index (%)": 0.8547008547008547
-    },
-    {
-        "Industry Name": "证券II",
-        "Hot Frequency Index (%)": 0.8547008547008547
-    },
-    {
-        "Industry Name": "医疗器械II",
-        "Hot Frequency Index (%)": 0.8547008547008547
-    },
-    {
-        "Industry Name": "房地产开发II",
-        "Hot Frequency Index (%)": 0.8547008547008547
-    },
-    {
-        "Industry Name": "IT服务II",
-        "Hot Frequency Index (%)": 0.8547008547008547
-    },
-    {
-        "Industry Name": "电力II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Hot Frequency Index (%)": 1.6
     },
     {
         "Industry Name": "玻璃制造II",
-        "Hot Frequency Index (%)": 0.8547008547008547
-    },
-    {
-        "Industry Name": "游戏II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Hot Frequency Index (%)": 1.6
     },
     {
         "Industry Name": "非金属材料II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Hot Frequency Index (%)": 0.8
     },
     {
-        "Industry Name": "农化制品II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Industry Name": "房地产开发II",
+        "Hot Frequency Index (%)": 0.8
     },
     {
         "Industry Name": "食品加工II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Hot Frequency Index (%)": 0.8
     },
     {
-        "Industry Name": "专业服务II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Industry Name": "橡胶II",
+        "Hot Frequency Index (%)": 0.8
     },
     {
-        "Industry Name": "电网设备II",
-        "Hot Frequency Index (%)": 0.8547008547008547
-    },
-    {
-        "Industry Name": "通信运营II",
-        "Hot Frequency Index (%)": 0.8547008547008547
-    },
-    {
-        "Industry Name": "工业金属II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Industry Name": "医疗器械II",
+        "Hot Frequency Index (%)": 0.8
     },
     {
         "Industry Name": "其他建材II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Hot Frequency Index (%)": 0.8
     },
     {
-        "Industry Name": "家用轻工II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Industry Name": "化学纤维II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "金属非金属新材料II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "专业工程II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "电力II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "农化制品II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "电网设备II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "环保设备II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "广告营销II",
+        "Hot Frequency Index (%)": 0.8
     },
     {
         "Industry Name": "汽车服务II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Hot Frequency Index (%)": 0.8
     },
     {
-        "Industry Name": "电源设备II",
-        "Hot Frequency Index (%)": 0.8547008547008547
-    },
-    {
-        "Industry Name": "贸易II",
-        "Hot Frequency Index (%)": 0.8547008547008547
-    },
-    {
-        "Industry Name": "服装家纺II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Industry Name": "工业金属II",
+        "Hot Frequency Index (%)": 0.8
     },
     {
         "Industry Name": "纺织制造II",
-        "Hot Frequency Index (%)": 0.8547008547008547
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "游戏II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "家用轻工II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "军工电子II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "贸易II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "软件开发II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "电源设备II",
+        "Hot Frequency Index (%)": 0.8
+    },
+    {
+        "Industry Name": "服装家纺II",
+        "Hot Frequency Index (%)": 0.8
     }
 ]
