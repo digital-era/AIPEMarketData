@@ -18888,6 +18888,17 @@
     },
     {
         "Date": "2026-08-25",
+        "Close_UDI": 98.92,
+        "High": 99.12,
+        "Low": 98.86,
+        "Open": 98.99,
+        "Percent": -0.08,
+        "DA": 0.26,
+        "YC": 0.51,
+        "Close_SZI": 3889.445
+    },
+    {
+        "Date": "2026-08-26",
         "Close_UDI": null,
         "High": null,
         "Low": null,
@@ -18895,6 +18906,6 @@
         "Percent": null,
         "DA": null,
         "YC": null,
-        "Close_SZI": 3889.445
+        "Close_SZI": 3912.524
     }
 ]
