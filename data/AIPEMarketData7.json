@@ -1,71 +1,5 @@
 [
     {
-        "Date": "2025-09-29",
-        "Close_UDI": 97.91,
-        "High": 98.18,
-        "Low": 97.77,
-        "Open": 98.17,
-        "Percent": -0.24,
-        "DA": 0.42,
-        "YC": -10.49,
-        "Close_SZI": 3862.532
-    },
-    {
-        "Date": "2025-09-30",
-        "Close_UDI": 97.77,
-        "High": 98.05,
-        "Low": 97.63,
-        "Open": 97.91,
-        "Percent": -0.14,
-        "DA": 0.43,
-        "YC": -10.62,
-        "Close_SZI": 3882.777
-    },
-    {
-        "Date": "2025-10-01",
-        "Close_UDI": 97.71,
-        "High": 97.88,
-        "Low": 97.46,
-        "Open": 97.82,
-        "Percent": -0.06,
-        "DA": 0.43,
-        "YC": -10.68,
-        "Close_SZI": null
-    },
-    {
-        "Date": "2025-10-02",
-        "Close_UDI": 97.85,
-        "High": 98.13,
-        "Low": 97.52,
-        "Open": 97.7,
-        "Percent": 0.14,
-        "DA": 0.62,
-        "YC": -10.55,
-        "Close_SZI": null
-    },
-    {
-        "Date": "2025-10-03",
-        "Close_UDI": 97.72,
-        "High": 97.95,
-        "Low": 97.6,
-        "Open": 97.85,
-        "Percent": -0.13,
-        "DA": 0.36,
-        "YC": -10.67,
-        "Close_SZI": null
-    },
-    {
-        "Date": "2025-10-06",
-        "Close_UDI": 98.11,
-        "High": 98.5,
-        "Low": 97.96,
-        "Open": 97.96,
-        "Percent": 0.4,
-        "DA": 0.55,
-        "YC": -10.31,
-        "Close_SZI": null
-    },
-    {
         "Date": "2025-10-07",
         "Close_UDI": 98.58,
         "High": 98.66,
@@ -2847,5 +2781,71 @@
         "DA": 0.42,
         "YC": 3.0,
         "Close_SZI": 3830.451
+    },
+    {
+        "Date": "2026-09-30",
+        "Close_UDI": 101.45,
+        "High": 101.53,
+        "Low": 101.03,
+        "Open": 101.41,
+        "Percent": 0.08,
+        "DA": 0.49,
+        "YC": 3.08,
+        "Close_SZI": 3842.195
+    },
+    {
+        "Date": "2026-10-01",
+        "Close_UDI": 102.1,
+        "High": 102.21,
+        "Low": 101.46,
+        "Open": 101.47,
+        "Percent": 0.64,
+        "DA": 0.74,
+        "YC": 3.74,
+        "Close_SZI": null
+    },
+    {
+        "Date": "2026-10-02",
+        "Close_UDI": 101.93,
+        "High": 102.13,
+        "Low": 101.67,
+        "Open": 102.02,
+        "Percent": -0.17,
+        "DA": 0.45,
+        "YC": 3.57,
+        "Close_SZI": null
+    },
+    {
+        "Date": "2026-10-05",
+        "Close_UDI": 102.17,
+        "High": 102.54,
+        "Low": 101.86,
+        "Open": 101.92,
+        "Percent": 0.24,
+        "DA": 0.67,
+        "YC": 3.81,
+        "Close_SZI": null
+    },
+    {
+        "Date": "2026-10-06",
+        "Close_UDI": 101.83,
+        "High": 102.29,
+        "Low": 101.75,
+        "Open": 102.14,
+        "Percent": -0.33,
+        "DA": 0.53,
+        "YC": 3.46,
+        "Close_SZI": null
+    },
+    {
+        "Date": "2026-10-07",
+        "Close_UDI": 102.24,
+        "High": 102.5,
+        "Low": 101.89,
+        "Open": 101.89,
+        "Percent": 0.4,
+        "DA": 0.6,
+        "YC": 3.88,
+        "Close_SZI": null
     }
 ]
