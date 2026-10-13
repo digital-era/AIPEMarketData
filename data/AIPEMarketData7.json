@@ -2828,13 +2828,13 @@
     },
     {
         "Date": "2026-10-12",
-        "Close_UDI": null,
-        "High": null,
-        "Low": null,
-        "Open": null,
-        "Percent": null,
-        "DA": null,
-        "YC": null,
+        "Close_UDI": 102.58,
+        "High": 102.61,
+        "Low": 102.1,
+        "Open": 102.3,
+        "Percent": 0.36,
+        "DA": 0.5,
+        "YC": 4.23,
         "Close_SZI": 3797.242
     }
 ]
