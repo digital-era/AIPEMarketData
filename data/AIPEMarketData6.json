@@ -19270,5 +19270,27 @@
         "DA": 0.5,
         "YC": 4.23,
         "Close_SZI": 3797.242
+    },
+    {
+        "Date": "2026-10-13",
+        "Close_UDI": 102.18,
+        "High": 102.57,
+        "Low": 102.16,
+        "Open": 102.57,
+        "Percent": -0.39,
+        "DA": 0.4,
+        "YC": 3.82,
+        "Close_SZI": 3800.864
+    },
+    {
+        "Date": "2026-10-14",
+        "Close_UDI": null,
+        "High": null,
+        "Low": null,
+        "Open": null,
+        "Percent": null,
+        "DA": null,
+        "YC": null,
+        "Close_SZI": 3767.227
     }
 ]
